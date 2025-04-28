@@ -1,4 +1,0 @@
- i am creator
- called god
- i am just practicing git commands
- 
